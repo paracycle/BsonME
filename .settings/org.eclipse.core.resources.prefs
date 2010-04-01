@@ -1,0 +1,15 @@
+#Thu Apr 01 16:18:11 EEST 2010
+eclipse.preferences.version=1
+encoding//.processed/src/org/bsonspec/me/BSONArray.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/BSONDocument.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/BSONElement.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/BSONException.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/BSONTokener.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/JSONString.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/JSONStringer.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/JSONWriter.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/StringWriter.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/test/AllTestSuite.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/test/BSONDocumentTest.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/util/XML.java=Cp1254
+encoding//.processed/src/org/bsonspec/me/util/XMLTokener.java=Cp1254
